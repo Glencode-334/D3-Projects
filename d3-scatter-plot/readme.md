@@ -1,4 +1,4 @@
-1) Multivariate Scatter Plot
+Scatter Plot :
 Using movie box-office data from boxofficemojo.com, this chart plots:
 
   The number of movie tickets sold each year from 2000-2014 (y axis) against the number of major-release movies each year   (x axis)
